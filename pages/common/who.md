@@ -9,7 +9,7 @@
 
 - Display information only for the current terminal session:
 
-`who am i`
+`whoami`
 
 - Display all available information:
 
